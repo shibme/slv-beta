@@ -5,7 +5,7 @@ go 1.21
 require github.com/shibme/slv v0.0.0
 
 require (
-	github.com/aws/aws-sdk-go v1.47.11 // indirect
+	github.com/aws/aws-sdk-go v1.47.12 // indirect
 	github.com/btcsuite/btcutil v1.0.2 // indirect
 	github.com/fatih/color v1.16.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
